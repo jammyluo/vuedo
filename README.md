@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/Vuedo/vuedo.svg?branch=master)](https://travis-ci.org/Vuedo/vuedo) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 ## What is Vuedo?
+开源博客项目
 
 Vuedo is an open source project built with Laravel and Vue.js. It is a live example of how everything works together.
 
